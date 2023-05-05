@@ -29,6 +29,10 @@
   Following use an application like Insomnia to test API routes (see walkthrough video for examples). 
   Exit application using ctrl + c in the terminal.
 
+  Walkthrough video:
+  ![Alt text](ECommWalkthrough.gif)
+  ECommerce Application walkthrough link: https://drive.google.com/file/d/1dPUGt5GSDuiMQ6P-5NrPCl399Oa6fBWs/view
+
   ## License 
   
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/https://opensource.org/licenses/MIT)
