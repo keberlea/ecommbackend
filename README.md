@@ -21,16 +21,17 @@
   2. The following dependencies will be used : Node.js, MYSQL2, Sequelize, Express.js, and dotenv.
 
   ## Usage
-  Once repository code is cloned to your local machine, run npm install to install required dependencies.
-  Then create your own .env file in the Develop folder of the project and add the following MYSQL credentials (DB_NAME, DB_USER, and DB_PASSWORD). 
-  From the Develop folder, connect to MySQL database with your database credentials entering mysql -u root -p into the command line. 
-  In MySQL use source db/schema.sql to source the schema of the Database and then exit to exit MySQL. 
-  Seed the database using npm run seed in the command line followed by npm start. 
-  Following use an application like Insomnia to test API routes (see walkthrough video for examples). 
+  Once repository code is cloned to your local machine, run npm install to install required dependencies. <br>
+  Then create your own .env file in the Develop folder of the project and add the following MYSQL credentials (DB_NAME, DB_USER, and DB_PASSWORD). <br>
+  From the Develop folder, connect to MySQL database with your database credentials entering mysql -u root -p into the command line. <br>
+  In MySQL use source db/schema.sql to source the schema of the Database and then exit to exit MySQL. <br>
+  Seed the database using npm run seed in the command line followed by npm start. <br>
+  Following use an application like Insomnia to test API routes (see walkthrough video for examples). <br> 
   Exit application using ctrl + c in the terminal.
 
   Walkthrough video:
   ![Alt text](ECommWalkthrough.gif)
+  <br>
   ECommerce Application walkthrough link: https://drive.google.com/file/d/1dPUGt5GSDuiMQ6P-5NrPCl399Oa6fBWs/view
 
   ## License 
